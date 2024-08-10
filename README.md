@@ -16,7 +16,8 @@ Features:
 
 [![Support Discord](https://img.shields.io/badge/Support%20Discord-▸-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://coffeebank.github.io/discord)
 
-Demo: https://coffeebank.github.io/moonrise
+Working Demo: https://coffeebank.github.io/moonrise
+This shit: https://lilnarco.github.io/home-site/
 
 ![CrispBuild demo](docs/media/demo01.jpg)
 
